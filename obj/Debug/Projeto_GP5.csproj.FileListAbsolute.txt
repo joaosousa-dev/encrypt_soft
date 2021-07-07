@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Desktop\Projeto_GP5\bin\Debug\Projeto_GP5.exe.config
+C:\Users\Lenovo\Desktop\Projeto_GP5\bin\Debug\Projeto_GP5.exe
+C:\Users\Lenovo\Desktop\Projeto_GP5\bin\Debug\Projeto_GP5.pdb
+C:\Users\Lenovo\Desktop\Projeto_GP5\obj\Debug\Projeto_GP5.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Projeto_GP5\obj\Debug\Projeto_GP5.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Projeto_GP5\obj\Debug\Projeto_GP5.exe
+C:\Users\Lenovo\Desktop\Projeto_GP5\obj\Debug\Projeto_GP5.pdb
